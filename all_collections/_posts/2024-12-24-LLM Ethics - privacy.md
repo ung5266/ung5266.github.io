@@ -15,4 +15,4 @@ Participated in the LLM ethics research project 'AI 위험 분야별 안정성 �
 > During 4 months, our team built a social network (over X and Reddit) based on an attacking scenario and dataset
 >
 
-![Overall procedures](/assets/image/HCI_1.png)
+![Overall procedures](/assets/image/HCI_1.PNG)
