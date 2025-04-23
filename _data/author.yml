@@ -1,0 +1,29 @@
+name: Seongung Jo
+dp: 'assets/image/f3.jpg'
+description: "
+  <p>
+  💻AI/ML Research Engineer in Korea. 
+  </p>
+  <p>
+  Sincerely I would like to build Human-Associated(Interactive) AI Systems🔥🔥
+  </p>
+  <p>
+  Thank you for visiting my blog :)
+  </p>
+  <br/>
+  <p>
+    You can get more info about me on <a href='https://ung5266.github.io/posts/miscellaneous/' target='_blank'>Here</a>
+  </P>
+"
+email: ung120266@gmail.com
+contact:
+  - title: linkedin
+    url: ''
+  - title: github
+    url: ''
+  - title: twitter
+    url: ''
+  - title: dev
+    url: ''
+  - title: email
+    url: ung120266@gmail.com
